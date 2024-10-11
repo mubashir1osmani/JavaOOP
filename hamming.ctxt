@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=hamming
+comment1.params=c\ d
+comment1.target=hamming(int,\ int)
+comment2.params=
+comment2.target=void\ calc()
+comment3.params=n
+comment3.target=int\ binary(int)
+numComments=4

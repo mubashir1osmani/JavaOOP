@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=time
+comment1.params=
+comment1.target=void\ accept()
+comment2.params=
+comment2.target=void\ print()
+comment3.params=a\ b
+comment3.target=time\ add(time,\ time)
+comment4.params=
+comment4.target=void\ main()
+numComments=5

@@ -1,0 +1,1 @@
+class purchase extends stock

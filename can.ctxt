@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=can
+comment1.params=
+comment1.target=void\ accept()
+comment2.params=
+comment2.target=int\ calc()
+comment3.params=
+comment3.target=void\ main()
+comment4.params=n
+comment4.target=int\ fact(int)
+numComments=5

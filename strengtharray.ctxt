@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=strengtharray
+comment1.params=x
+comment1.target=strengtharray(java.lang.String)
+comment2.params=
+comment2.target=void\ calc()
+comment3.params=s
+comment3.target=int\ strength(java.lang.String)
+numComments=4
